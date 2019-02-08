@@ -1,0 +1,12 @@
+{
+    "about": {
+        "header": "About",
+        "short-desecription": "Your short description..."
+    },
+    "contact": {
+        "header": "Contact"
+    },
+    "jobs": {
+        "header": "My works"
+    }
+}
