@@ -1,0 +1,13 @@
+{
+    "about": {
+        "header": "About",
+        "short-resume": "Developer Analyst graduate in Software Engineering focused on agile methods by the University Center Una.Graduation in Mathematics by the Federal University of Minas Gerais and Graduation in Analysis and Development of Systems by the Methodist Institute Izabela Hendrix."
+    },
+    "skill": {
+        "header": "Skills"
+    },
+    "certifications": {
+        "header": "Certifications",
+        "text": "My certification list"
+    }
+}

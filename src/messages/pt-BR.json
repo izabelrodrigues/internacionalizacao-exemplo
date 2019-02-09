@@ -1,0 +1,13 @@
+{
+    "about": {
+        "header": "Sobre",
+        "short-resume": "Analista Desenvolvedora pós-graduada em Engenharia de Software centrada em métodos ágeis pelo Centro Universitário Una.Graduação em Matemática pela Universidade Federal de Minas Gerais e Graduação em Análise e Desenvolvimento de Sistemas pelo Instituto Metodista Izabela Hendrix."
+    },
+    "skill": {
+        "header": "Habilidades"
+    },
+    "certifications": {
+        "header": "Certificações",
+        "text": "Minha lista de certificações"
+    }
+}
